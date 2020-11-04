@@ -7,6 +7,12 @@
       "icon": "🔨"
     },
     {
+      "slug": "Websites",
+      "name": "Websites",
+      "description": "best resources for building your website",
+      "icon": "🖥️"
+    },
+    {
       "slug": "productivity",
       "name": "Productivity",
       "description": "best free productivity tools",
@@ -59,12 +65,6 @@
       "name": "Books",
       "description": "best books",
       "icon": "📚"
-    },
-    {
-      "slug": "Websites",
-      "name": "Websites",
-      "description": "best resources for building your website",
-      "icon": "🖥️"
     },
     {
       "slug": "learning",
