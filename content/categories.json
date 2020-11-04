@@ -61,10 +61,10 @@
       "icon": "📚"
     },
     {
-      "slug": "food",
-      "name": "Food",
-      "description": "best resources for food lovers",
-      "icon": "🥑"
+      "slug": "Websites",
+      "name": "Websites",
+      "description": "best resources for building your website",
+      "icon": "🖥️"
     },
     {
       "slug": "learning",
