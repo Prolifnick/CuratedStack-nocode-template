@@ -60,14 +60,6 @@
     },
     {
       "categories_slugs": [
-        "open-source"
-      ],
-      "name": "Mobile App Landing Page Template",
-      "description": "📱 Free to use static generated landing page template for your mobile app",
-      "url": "https://github.com/sandoche/Mobile-app-landingpage-template"
-    },
-    {
-      "categories_slugs": [
         "finance"
       ],
       "name": "Revenual",
@@ -210,14 +202,6 @@
     },
     {
       "categories_slugs": [
-        "open-source"
-      ],
-      "name": "Jekyll-webpack-boilerplate",
-      "description": "A Jekyll boilerplate supercharged with Webpack to build modern performant websites (including Progressive Web Apps)",
-      "url": "https://github.com/sandoche/Jekyll-webpack-boilerplate"
-    },
-    {
-      "categories_slugs": [
         "open-source",
         "productivity",
         "design",
@@ -235,6 +219,15 @@
       "description": "Get started with the CuratedStack (No-Code) Template",
       "url": "https://github.com/sandoche/CuratedStack-nocode-template",
       "icon": "/images/logos/icon.png"
+    },
+    {
+      "name": "Squarespace",
+      "description": "Website builder",
+      "url": "https://www.squarespace.com/",
+      "categories_slugs": [
+        "websites"
+      ],
+      "icon": "/images/logos/squarespace-logo-png-transparent.png"
     }
   ]
 }
