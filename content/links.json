@@ -181,14 +181,12 @@
     },
     {
       "categories_slugs": [
-        "cryptocurrency",
-        "learning",
-        "open-source"
+        "social-media"
       ],
-      "name": "NaivecoinStake",
-      "description": "NaivecoinStake is a tutorial to build from scratch a cryptocurrency using the Proof of Stake consensus.",
-      "url": "https://naivecoinstake.learn.uno/",
-      "icon": "/images/logos/naivecoinstake.png"
+      "name": "Hootsuite",
+      "description": "Social media scheduling tool",
+      "url": "https://hootsuite.com/",
+      "icon": "/images/logos/hootsuite.jpg"
     },
     {
       "categories_slugs": [
