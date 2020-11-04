@@ -210,22 +210,22 @@
       "icon": "/images/logos/icon.png"
     },
     {
-      "name": "Squarespace",
-      "description": "Drag-and-drop website builder",
-      "url": "https://www.squarespace.com/",
-      "categories_slugs": [
-        "websites",
-        ""
-      ],
-      "icon": "/images/logos/squarespace-logo-png-transparent.png"
-    },
-    {
       "name": "Hootsuite",
       "description": "Social media scheduling tool ",
       "url": "https://hootsuite.com/",
       "icon": "/images/logos/hootsuite.jpg",
       "categories_slugs": [
         "social-media",
+        ""
+      ]
+    },
+    {
+      "name": "Squarespace",
+      "description": "Drag-and-drop website builder",
+      "url": "https://www.squarespace.com/",
+      "icon": "/images/logos/squarespace-logo-png-transparent.png",
+      "categories_slugs": [
+        "websites",
         ""
       ]
     }
