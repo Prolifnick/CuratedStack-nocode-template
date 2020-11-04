@@ -228,6 +228,15 @@
         "websites"
       ],
       "icon": "/images/logos/squarespace-logo-png-transparent.png"
+    },
+    {
+      "name": "Hootsuite",
+      "description": "Social media scheduling tool ",
+      "url": "https://hootsuite.com/",
+      "icon": "/images/logos/png-clipart-hootsuite-social-media-blog-facebook-social-media-rectangle-heart.png",
+      "categories_slugs": [
+        "social-media"
+      ]
     }
   ]
 }
