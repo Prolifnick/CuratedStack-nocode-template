@@ -227,6 +227,15 @@
       "categories_slugs": [
         "Websites"
       ]
+    },
+    {
+      "categories_slugs": [
+        "Websites"
+      ],
+      "url": "https://carrd.co/",
+      "description": "One-page website builder",
+      "name": "Carrd",
+      "icon": "/images/logos/carrd-logo.jpg"
     }
   ]
 }
