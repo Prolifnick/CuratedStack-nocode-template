@@ -245,6 +245,15 @@
       ],
       "name": "Webflow",
       "description": "Webflow is an in-browser design tool that gives you the power to design, build, and launch responsive websites visually (with no-code)."
+    },
+    {
+      "name": "Shopify",
+      "description": "Create an e-commerce website backed by powerful tools that help you find customers, drive sales, and manage your day-to-day.",
+      "url": "shopify.co.uk",
+      "icon": "/images/logos/unnamed-1-.jpg",
+      "categories_slugs": [
+        "E-Commerce"
+      ]
     }
   ]
 }
