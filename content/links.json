@@ -236,6 +236,15 @@
       "description": "One-page website builder",
       "name": "Carrd",
       "icon": "/images/logos/carrd-logo.jpg"
+    },
+    {
+      "icon": "/images/logos/tg7mrqk2.png",
+      "url": "https://webflow.com/",
+      "categories_slugs": [
+        "Websites"
+      ],
+      "name": "Webflow",
+      "description": "Webflow is an in-browser design tool that gives you the power to design, build, and launch responsive websites visually (with no-code)."
     }
   ]
 }
