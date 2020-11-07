@@ -1,10 +1,10 @@
 {
   "categories": [
     {
-      "slug": "open-source",
-      "name": "Open Source",
-      "description": "best free open source tools for your next projects",
-      "icon": "🔨"
+      "slug": "E-Commerce",
+      "name": "E-Commerce",
+      "description": "best free e-commerce tools for your next projects",
+      "icon": "💻"
     },
     {
       "slug": "Websites",
